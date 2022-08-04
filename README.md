@@ -24,6 +24,8 @@ This project is broken in to 2 parts:
 - Next, I created a route called /scrape that will import the scrape_mars.py script and call the scrape function.
 Store the return value in Mongo as a Python dictionary.
 
+![App image](https://user-images.githubusercontent.com/97136642/182745668-f9574e94-f494-438a-a95a-e55e19d5e2cd.png)
 
+![App image 2](https://user-images.githubusercontent.com/97136642/182745677-cbee9905-8350-4dc3-a463-27f22f7a5106.png)
 
 
